@@ -1,0 +1,104 @@
+.h1header {
+	font-size:50px;
+	color:#875146;
+	text-align:center;
+	font-family: "Georgia";
+	padding-top:25px;
+}
+.back {
+	width:100%;
+	float:left;
+}
+.header {
+	background-color:#ECD9E1;
+	width:100%;
+	height:140px;
+}
+.menu {
+	background-color:#ECD9E1;
+	width:20%;
+	height:650px;
+	float:left;
+}
+.content {
+	background-color:#ECD9E1;
+	width:60%;
+	height:650px;
+	float:left;
+}
+.right {
+	background-color:#ECD9E1;
+	width:20%;
+	height:650px;
+	float:left;
+	font-family: "Arial";
+}
+.footer {
+	background-color:#ECD9E1;
+	width:100%;
+	height:85px;
+	float:left;
+	font-family: "Arial";
+}
+.pmenu {
+	padding-left:15px;
+	font-family: "Arial";
+}
+.pfooter {
+	padding-left:15px;
+	font-family: "Arial";
+	font-size:13px;
+	line-height:0.8;
+	text-align:center;
+}
+.h1content {
+	font-family: "Georgia";
+	text-align:center;
+	font-size:25px;
+	color:#BA804E;
+}
+a {
+	color:#875146;
+}
+.pcontent {
+	font-family: "Georgia";
+	text-align:left;
+	font-size:17px;
+	color:#BA804E;
+	line-height:1.6;
+}
+li,lh {
+	font-family: "Georgia";
+	text-align:left;
+	font-size:17px;
+	color:#BA804E;
+	line-height:1.6;
+}
+.pright {
+	font-family: "Arial";
+	color:#875146;
+	text-align:center;	
+}
+.imgz {
+	width:25%;
+}
+img {
+	width:80%;
+}
+.shop {
+	width:30%;
+}
+.pcontact {
+	font-family: "Georgia";
+	text-align:center;
+	font-size:17px;
+	color:#BA804E;
+	line-height:0.8;
+}
+.acontact {
+	font-family: "Georgia";
+	text-align:left;
+	font-size:17px;
+	color:#BA804E;
+	line-height:1.6;
+}
